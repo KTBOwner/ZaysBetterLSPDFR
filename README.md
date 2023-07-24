@@ -26,9 +26,8 @@ Texas Citations.Xml For State Texas: https://www.lcpdfr.com/downloads/gta5mods/d
     
 ### Upcoming Updates
 
-1.0.1.3:
-    - Attempt to add ZaysBetterStopThePed and ZaysBetterCharges as a bundles
-    - Attempt to add a set of callouts that go with the Charges.xml
+1.0.1.4:
+    - Attempt to add a new callout
     
 ### How to install
 
