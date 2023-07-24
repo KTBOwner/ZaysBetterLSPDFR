@@ -5,7 +5,9 @@ You must have compulite installed
 ### Requirements
 
 Stop The Ped: https://gta5mod.net/gta-5-mods/scripts/stop-the-ped-v4-9-3-5/
+
 Compulite: https://www.bejoijo.com/post/compulite 
+
 Texas Citations.Xml For State Texas: https://www.lcpdfr.com/downloads/gta5mods/datafile/44597-realistic-compulite-charges-citations-dallastexas-based/
 
 
