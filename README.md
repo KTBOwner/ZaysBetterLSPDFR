@@ -16,12 +16,17 @@ Texas Citations.Xml For State Texas: https://www.lcpdfr.com/downloads/gta5mods/d
 ### Changelogs
 
 1.0.1.3:
+
     - Added ZaysBetterStopThePed and ZaysBetterCharges as a bundle
+    
     - Added a Robbery Call (My First Callout)
     
 1.0.1.2: 
+
     - Added Signatures
+    
     - Fixed Bugs
+    
     - Tightied up mods upload on LCPDFR
     
 ### Upcoming Updates
