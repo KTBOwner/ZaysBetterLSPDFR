@@ -1,4 +1,4 @@
-### ZaysBetterCharges | V 1.0.1.2 | OREGON CHARGES
+### ZaysBetterCharges | V 1.0.1.3 | OREGON CHARGES
 
 You must have compulite installed
 
@@ -15,6 +15,10 @@ Texas Citations.Xml For State Texas: https://www.lcpdfr.com/downloads/gta5mods/d
  
 ### Changelogs
 
+1.0.1.3:
+    - Added ZaysBetterStopThePed and ZaysBetterCharges as a bundle
+    - Added a Robbery Call (My First Callout)
+    
 1.0.1.2: 
     - Added Signatures
     - Fixed Bugs
@@ -38,3 +42,9 @@ GO TO:
 Charge_By_State/State/Charges.xml
 
 DRAG AND DROP IN TO PLUGINS/LSPDFR/COMPULITE/
+
+### How to edit the Settings.ini in ZaysCallouts folder
+
+isConsoleLogAllowed - Displays Startup Message in Game Console
+isGameLogInGameNotification - Displays Startup Message  in Game
+isErrorsLogInGameHelp - Displays Plugin Errors In Game
