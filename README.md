@@ -1,35 +1,38 @@
-# ZaysBetterCharges | Version 1.0x | LAPD CHARGES
+### ZaysBetterCharges | V 1.0.1.2 | OREGON CHARGES
 
-***PLEASE INSTALL ALL FILES TO PLUGINS/LSPDFR/COMPULITE OR YOUR GAME WILL NOT LOAD THE CHARGES.XML
+You must have compulite installed
 
-Please go to: https://www.shouselaw.com/ca/defense/penal-code/ to review what each code means!
+### Requirements
 
-There will be more versions of this plugin stay tuned!
-
-
-REQUIREMENTS:
-
-LSPDFR 0.4.9: https://www.lcpdfr.com/downloads/gta5mods/g17media/7792-lspd-first-response/
-
-Compulite: https://www.bejoijo.com/post/compulite
-
-StopThePed: https://gta5mod.net/gta-5-mods/scripts/stop-the-ped-v4-9-3-5/
-
-OPTIONAL:
-
-ELS: https://www.lcpdfr.com/downloads/gta5mods/scripts/13865-emergency-lighting-system/
-
-EUP Menu: https://www.lcpdfr.com/downloads/gta5mods/scripts/13245-eup-menu/
-
-EUP Law & Order: https://www.lcpdfr.com/downloads/gta5mods/character/8151-emergency-uniforms-pack-law-order/
-
-EUP Serve & Rescue: https://www.lcpdfr.com/downloads/gta5mods/character/16256-emergency-uniforms-pack-serve-rescue/
-
-EUP Backup Config: https://www.lcpdfr.com/downloads/gta5mods/misc/28735-eup-backup-configurations-93/
-
-Ultimate Backup: https://www.bejoijo.com/post/ultimate-backup
+Stop The Ped: https://gta5mod.net/gta-5-mods/scripts/stop-the-ped-v4-9-3-5/
+Compulite: https://www.bejoijo.com/post/compulite 
+Texas Citations.Xml For State Texas: https://www.lcpdfr.com/downloads/gta5mods/datafile/44597-realistic-compulite-charges-citations-dallastexas-based/
 
 
 
+ 
+### Changelogs
 
-Current Version: 1.0.2x
+1.0.1.2: 
+    - Added Signatures
+    - Fixed Bugs
+    - Tightied up mods upload on LCPDFR
+    
+### Upcoming Updates
+
+1.0.1.3:
+    - Attempt to add ZaysBetterStopThePed and ZaysBetterCharges as a bundles
+    - Attempt to add a set of callouts that go with the Charges.xml
+    
+### How to install
+
+DRAG AND DROP "plugins" INTO THE GTA DIRECTORY
+
+
+TO INSTALL A DIFFERENT CHARGES
+
+GO TO:
+
+Charge_By_State/State/Charges.xml
+
+DRAG AND DROP IN TO PLUGINS/LSPDFR/COMPULITE/
