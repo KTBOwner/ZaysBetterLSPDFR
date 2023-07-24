@@ -46,5 +46,7 @@ DRAG AND DROP IN TO PLUGINS/LSPDFR/COMPULITE/
 ### How to edit the Settings.ini in ZaysCallouts folder
 
 isConsoleLogAllowed - Displays Startup Message in Game Console
+
 isGameLogInGameNotification - Displays Startup Message  in Game
+
 isErrorsLogInGameHelp - Displays Plugin Errors In Game
